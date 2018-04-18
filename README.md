@@ -9,3 +9,6 @@ Puts "this is code"
 If this then that
 ```
 Paragraph text here
+```ruby
+这是一个关于工具的练习
+```
